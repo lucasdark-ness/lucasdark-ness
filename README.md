@@ -1,5 +1,13 @@
 ### Hi there 👋 Lucas here!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdark-ness&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
